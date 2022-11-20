@@ -16,8 +16,6 @@
 
 /* The element to apply the animation to */
 .colors {
-  width: 100px;
-  height: 100px;
   background-color: red;
   animation-name: example;
   animation-duration: 4s;
